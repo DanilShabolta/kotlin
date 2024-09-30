@@ -19,14 +19,14 @@
         <Button
             android:id="@+id/buttonBlackText"
             android:layout_width="0dp"
-            android:layout_weight="1"
+            android:layout_weight="0.5"
             android:layout_height="wrap_content"
             android:text="Черный текст" />
 
         <Button
             android:id="@+id/buttonRedText"
             android:layout_width="0dp"
-            android:layout_weight="1"
+            android:layout_weight="0.5"
             android:layout_height="wrap_content"
             android:text="Красный текст" />
     </LinearLayout>
@@ -40,14 +40,14 @@
         <Button
             android:id="@+id/buttonSize85"
             android:layout_width="0dp"
-            android:layout_weight="1"
+            android:layout_weight="0.5"
             android:layout_height="wrap_content"
             android:text="Размер 85п" />
 
         <Button
             android:id="@+id/buttonSize245"
             android:layout_width="0dp"
-            android:layout_weight="1"
+            android:layout_weight="0.5"
             android:layout_height="wrap_content"
             android:text="размер 245п" />
 
@@ -61,14 +61,14 @@
         <Button
             android:id="@+id/buttonBackgroundWhite"
             android:layout_width="0dp"
-            android:layout_weight="1"
+            android:layout_weight="0.5"
             android:layout_height="wrap_content"
             android:text="Белый фон" />
 
         <Button
             android:id="@+id/buttonBackgroundYellow"
             android:layout_width="0dp"
-            android:layout_weight="1"
+            android:layout_weight="0.5"
             android:layout_height="wrap_content"
             android:text="Желтый фон" />
 
